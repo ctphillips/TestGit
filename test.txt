@@ -1,2 +1,4 @@
 hello
 I am adding a line to the test file
+
+This is yet another line to test git and github with VSCode.
